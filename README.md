@@ -1,12 +1,12 @@
-<h1 align="center">Hi, my name is Paulo Soares</h1>
-<h3 align="center">A Cloud and DevOps enthusiast from Brazil</h3>
+<h1 align="center">Hi, I'm Paulo Soares</h1>
+I'm an IT pro diving into the DevOps and Cloud world. Here you'll find a collection of my projects, scripts, and learning materials.
 </br>
 
 - 🔭 I’m currently working with **VMware, Windows, Linux, Shellscript and Ansible**
 
-- 🌱 I’m currently learning **AWS, Kubernetes, Terraform, CI/CD and Python**
+- 🌱 I’m currently learning **AWS, Azure, Kubernetes, Terraform, Docker, CI/CD and Python**
 
-- 👯 I’m looking to collaborate on **cloud and devops projects**
+- 👯 I’m looking to collaborate on **Cloud and DevOps projects**
 
 - 📝 Read my articles and know about my experiences on [https://www.linkedin.com/in/paulosoares0/](https://www.linkedin.com/in/paulosoares0/)
 
