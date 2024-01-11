@@ -12,7 +12,7 @@ I'm an IT pro diving into the DevOps and Cloud world. Here you'll find a collect
 
 - 📫 How to reach me **paulosoares.bsi@gmail.com**
 
-- ⚡ In my free time I play videogames with so much history
+- ⚡ In my free time I play video games with a lot of history
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulosoares-bsi&label=Profile%20views&color=0e75b6&style=flat" alt="paulosoares-bsi" /> </p>
 
